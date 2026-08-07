@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My WebOS Workspace</title>
+    <link href="https://googleapis.com" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="desktop">
+
+        <div id="clock">00:00:00</div>
+
+        <div id="start-menu" style="display: none;">
+            <div class="menu-item" id="menu-open-about">Open System Profile</div>
+            <div class="menu-item" id="menu-open-notes">Open Scratchpad</div>
+            <div class="menu-item" id="menu-open-term"> Open Terminal</div>
+        </div>
+
+        <div id="taskbar">
+            <button class="start-btn">Launcher</button>
+            <div class="system-tray">
+                <span>100% Battery</span>
+            </div>
+        </div>
+
+    </div>
+
+    <template id="window-template">
+        <div class="box">
+            <div class="box-header">
+                <span class="box-title">Window</span>
+                <button class="close">x</button>
+            </div>
+            <div class="box-body"></div>
+        </div>
+    </template>
+
+    <script src="script.js"></script>
+</body>
+</html>
