@@ -6,7 +6,6 @@ Features
 - So many windows... Spawn as many independent windows as you want!
 - Interactive Terminal: A functional Konsole!
 - Clock! A real-time clock.
-- Wallpaper Engine: Switch between 4 different wallpapers by using the Switch Wallpapers app!
 
 Konsole commands
 Open the terminal and try these cmds:
