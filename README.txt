@@ -6,6 +6,11 @@ Features
 - So many windows... Spawn as many independent windows as you want!
 - Interactive Terminal: A functional Konsole!
 - Clock! A real-time clock.
+- NEW-Calculator: calculate stuff... or something..
+- NEW-Task manager: Kill windows with the click of a button!
+- NEW-Minimizable windows
+- NEW-Taskbar: A taskbar that tells you which windows you have open and when you click on one of the names, it minimizes the window!
+- NEW-Lock Screen: A lock screen with no passwordw
 
 Konsole commands
 Open the terminal and try these cmds:
@@ -26,4 +31,3 @@ Built With
 - HTML5
 - CSS3
 - Vanilla JavaScript
-
